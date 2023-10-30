@@ -1,0 +1,12 @@
+$(function () {
+    $('#messageContent').summernote()
+    $('#announcementContent').summernote()
+    $('#commentContent').summernote()
+    $('#system_title_header').summernote()
+    $('#system_description').summernote()
+    $('#system_logo').summernote()
+    $('#IT_REMARKS').summernote()
+    $('#IT_PURPOSE').summernote()
+    $('#IT_DECLINE_REASON').summernote()
+    $('#IT_REQUEST_ITEM_REMARKS').summernote()
+  })
